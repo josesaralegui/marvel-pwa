@@ -1,0 +1,9 @@
+{
+  "name": "El calendario Marvel de José Saralegui",
+  "short_name": "MarvelCalendar",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ED1D24",
+  "theme_color": "#ED1D24",
+  "icons": []
+}
